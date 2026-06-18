@@ -1,0 +1,4 @@
+interface:
+  display_name: "GIF制作助手"
+  short_description: "从内置模板创建并维护可本地运行的 GIF 制作应用。"
+  default_prompt: "Use $gif-maker to create and run a self-contained CineGIF project."

@@ -1,0 +1,1 @@
+export const CANVAS_BACKGROUND = '#0B0D12'
