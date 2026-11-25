@@ -176,6 +176,10 @@ The bundled app includes product, UI, technical, data, API, stage, acceptance, a
 - [`references/project-reference.md`](./references/project-reference.md): architecture, commands, and module responsibilities
 - [`assets/cinegif-template/README.md`](./assets/cinegif-template/README.md): bundled CineGIF app overview
 
+## 作者网站 / Websites
+
+[DailyCited](https://dailycited.com/) · [ShortDramaWords](https://shortdramawords.com/)
+
 ## License
 
 本仓库暂未包含许可证文件。使用或分发前，请确认本项目及其依赖的授权条款。
